@@ -1,1 +1,1 @@
-# Servidor de la aplicacion clon de discord
+# Servidor de la aplicacion ConectMe
