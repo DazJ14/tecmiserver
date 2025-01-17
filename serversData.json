@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "General Server",
+    "channels": {
+      "11": {
+        "id": 1,
+        "name": "general",
+        "messages": [
+          {
+            "author": "John",
+            "content": "General channel"
+          },
+          {
+            "author": "Alice",
+            "content": "Hello!"
+          }
+        ]
+      },
+      "12": {
+        "id": 2,
+        "name": "random",
+        "messages": [
+          {
+            "author": "Bob",
+            "content": "Random channel"
+          },
+          {
+            "author": "Alice",
+            "content": "Hi!"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "Jokes Server",
+    "channels": {
+      "21": {
+        "id": 1,
+        "name": "general",
+        "messages": [
+          {
+            "author": "Charlie",
+            "content": "Welcome to the general channel!"
+          },
+          {
+            "author": "Dave",
+            "content": "Hello everyone!"
+          }
+        ]
+      },
+      "22": {
+        "id": 2,
+        "name": "jokes",
+        "messages": [
+          {
+            "author": "Eve",
+            "content": "Why did the chicken cross the road?"
+          },
+          {
+            "author": "Frank",
+            "content": "To get to the other side!"
+          }
+        ]
+      },
+      "23": {
+        "id": 3,
+        "name": "memes",
+        "messages": [
+          {
+            "author": "Grace",
+            "content": "Check out this meme!"
+          },
+          {
+            "author": "Heidi",
+            "content": "That's hilarious!"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "Programming Server",
+    "channels": {
+      "31": {
+        "id": 1,
+        "name": "general",
+        "messages": [
+          {
+            "author": "Ivan",
+            "content": "Welcome to the programming server!"
+          },
+          {
+            "author": "Judy",
+            "content": "Happy coding!"
+          }
+        ]
+      },
+      "32": {
+        "id": 2,
+        "name": "programming",
+        "messages": [
+          {
+            "author": "Ken",
+            "content": "Let's talk about algorithms."
+          },
+          {
+            "author": "Laura",
+            "content": "Sure, I love discussing algorithms!"
+          }
+        ]
+      },
+      "33": {
+        "id": 3,
+        "name": "webdev",
+        "messages": [
+          {
+            "author": "Mallory",
+            "content": "Any tips for learning JavaScript?"
+          },
+          {
+            "author": "Nina",
+            "content": "Practice makes perfect!"
+          }
+        ]
+      }
+    }
+  }
+]
